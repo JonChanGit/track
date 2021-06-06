@@ -1,0 +1,13 @@
+{
+  "name": "track",
+  "version": "1.0.0",
+  "repository": "git@github.com:JonChanGit/track.git",
+  "license": "GPL",
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
